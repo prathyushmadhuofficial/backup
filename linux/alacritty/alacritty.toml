@@ -28,7 +28,7 @@ style = "Bold Italic"
 history = 10000
 multiplier = 3
 
-# colour scheme - Catppuccin Mocha
+# colour scheme - Catppuccin Mocha based hex values
 [colors.primary]
 background = "#1e1e2e"
 foreground = "#cdd6f4"
