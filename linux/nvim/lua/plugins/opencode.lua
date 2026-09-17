@@ -1,12 +1,6 @@
 return {
   "nickjvandyke/opencode.nvim",
   version = "*", -- Latest stable release
-  opts = {
-    server = {
-      url = "http://localhost",
-      port = 4096,
-    },
-  },
   config = function()
     ---@type opencode.Opts
     vim.g.opencode_opts = {
